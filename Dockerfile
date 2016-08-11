@@ -1,4 +1,4 @@
-FROM daocloud.io/library/centos:centos7 
+FROM centos:7 
 
 RUN yum update -y
 
